@@ -25,10 +25,6 @@ Usage:
 python repeatability_sem.py
 ```
 
-Cite As
-
-[Nzakimuena, C. B., Solano, M. M., Marcotte-Collard, R., Lesk, M. R., & Costantino, S. (2025). Spatial and temporal changes in choroid morphology associated with long-duration spaceflight. Investigative Ophthalmology & Visual Science, 66(5), 17-17.](https://doi.org/10.1167/iovs.66.5.17)
-
 ### References
 
 1. Portney, L. G. (2020). Foundations of clinical research: applications to evidence-based practice. FA Davis.
